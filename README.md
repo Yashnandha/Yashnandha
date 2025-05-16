@@ -1,32 +1,39 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi there, I'm Yashnandha 👋
 
-###
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. Here you'll find a collection of my projects, experiments, and contributions to the open-source community.
 
-<p align="left">My name is Yash Nandha and I'm a React Native, from India</p>
+## 🚀 About Me
 
-###
+- 💡 Enthusiastic developer with a love for solving real-world problems.
+- 🛠️ Skilled in:  
+  - Programming Languages: JavaScript, Python, TypeScript, C++
+  - Frameworks: React, Node.js, Express, Django
+  - Tools: Git, Docker, VSCode, Linux
+- 🌱 Currently learning: Cloud technologies (AWS, Azure), DevOps, and AI/ML concepts.
+- 📚 I enjoy contributing to open source and collaborating on interesting projects.
+- 🎯 Always eager to improve my skills and explore new tech trends.
 
-<h2 align="left">About me</h2>
-Occupation:
-React Native developer
-Location: India
-Skills: Typescript, Photoshop, graphics, tech enthusiasm, web3, web2, npm packages, VS Code extensions
-Experience: 2+ years of experience in React Native development
-Education: Bachelor's degree in Computer Science
-Contributions: NPM , VSCode , 
+## 📈 GitHub Stats
 
-<h2 align="left">I code with</h2>
+![Yashnandha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashnandha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashnandha&layout=compact&theme=radical)
 
-###
+## 📝 Latest Projects
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+- [Project 1](https://github.com/Yashnandha/project1): Short description of your project.
+- [Project 2](https://github.com/Yashnandha/project2): Short description of your project.
+- [Project 3](https://github.com/Yashnandha/project3): Short description of your project.
 
-###
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yashnandha)
+- [Twitter](https://twitter.com/yashnandha)
+- [Personal Website](https://yashnandha.dev) <!-- Update with your real website if available -->
+
+## 🤝 Let's Collaborate!
+
+I'm always open to discussing new opportunities or collaborating on open-source projects. Feel free to reach out!
+
+---
+
+*Thank you for visiting my profile! ⭐️*
